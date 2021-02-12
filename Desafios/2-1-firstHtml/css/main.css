@@ -1,0 +1,31 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #22263b;
+}
+
+header {
+    padding: 30px;
+    border-bottom: 1px solid #757579;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin: 0 30px;
+}
+
+.links a:hover {
+    color: #53e3f7;
+    transition: color 200ms;
+}
