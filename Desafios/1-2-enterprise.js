@@ -1,7 +1,7 @@
 const enterprise = {
     name: 'Rocketseat',
-    color: 'Roxo',
-    focus: 'Programação',
+    color: 'Purple',
+    focus: 'Programming',
     address: {
         street: 'Guilherme Gembala Street',
         number: 260
